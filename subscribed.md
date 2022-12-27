@@ -1,0 +1,93 @@
+# Subscribed
+
+
+### Youtube Channels
+- Jadi
+- Talks at Google
+- TED and TEDx
+- The School of Life
+- Big Think
+- Absolute Motivation
+- Practical Phycology
+- Coding Garden with CJ, Programming
+- Jordan Peterson - Idea
+- Programming Knowledge
+- Chris Coyjer - CSS Ttricks
+- Dylan Israel - Web Coding
+
+### Subreddits:
+- AMA
+- AmItheAsshole
+- AskReddit
+- assholedesign
+- BeAmazed
+- blog
+- BoJackHorseman
+- CarrieUnderwood
+- Cooking
+- Coronavirus
+- csdojo
+- CSGOmemes
+- dankmemes
+- developers
+- discordapp
+- Documentaries
+- DotA2
+- Dota2Memes
+- dubstep
+- DunderMifflin
+- entertainment
+- explainlikeimfive
+- fakehistoryporn
+- food
+- FoodPorn
+- funny
+- Games
+- hackernews
+- help
+- howyoudoin
+- IAmA
+- IamStuff
+- IranPics
+- Jokes
+- KrunkerIO
+- lifehacks
+- LifeProTips
+- listentothis
+- lymphoma
+- meirl
+- memes
+- movies
+- Music
+- NewToReddit
+- nextfuckinglevel
+- NoFap
+- NoStupidQuestions
+- nosurf
+- OrangePI
+- pcmasterrace
+- photoshopbattles
+- place
+- popheads
+- Programmers
+- programming
+- PublicFreakout
+- selfhelp
+- ShitRedditSays
+- Showerthoughts
+- siliconvalley
+- SiliconValleyHBO
+- SiliconValleyProbs
+- starterpacks
+- StopGaming
+- television
+- TeslaMemes
+- tifu
+- toptalent
+- trashy
+- tvmemes
+- unixporn
+- videos
+- WatchPeopleDieInside
+- woodworking
+- worldnews
