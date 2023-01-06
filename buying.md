@@ -1,7 +1,25 @@
 # Buying
 
 ### Priority
+- [ ] save to migrate!
 - [ ] rent a house
+
+### Daily requirements
+- [x] Water Flask
+- [x] Water Bottle
+- [x] RGB 5050 (5meters)
+- [x] Towl
+- [x] Camping capsule
+- [x] capsule charger
+- [x] bicycle cloth, pant, gloves
+- [x] some figures for Case
+- [x] TypeC to Aux
+- [x] Creative Handfrree
+- [x] Food Container
+- [x] Multimeter and some Tools
+
+### Workout
+- [ ] bicycle (tube, ball bearings)
 
 ### PC
 - [x] 140cm table
@@ -11,11 +29,31 @@
 - [x] Case: Master Tech T-500 Gaming
 - [x] Power: Cooller Master 750G 
 - [x] Mother Board: Asus ROG Strix x570 E-Gaming Wifi
-- [x] RAM: Corsair 3600 32GB
+- [x] RAM: 2xCorsair 3600 32GB
 - [x] GPU: MSI 3060TI Ventus 2x
 - [x] SSD: Kingstone 120GB
 - [x] HDD: WD 4TB
+- [ ] HDD: X300 Toshiba Disk
 - [x] FAN: Cooler Master MA612 Stealth ARGB 
 - [x] CPU: Amd Ryzen9 5900X
-- [ ] Mouse
-- [ ] HDD
+- [ ] Mouse: 
+
+### Widgets
+- [x] Xiaomi 11T
+
+### Hobbies
+- [x] Nektar Impact GX61 MIDI Keyboard
+
+### Supermarket stuff
+- surface cleaner
+- body spray
+- coffee, tea
+- toothbrush
+- paper towl
+- freezer bags
+- chips and snacks
+- noodles
+- chocolate
+- breakfast (cream, jam, milk, etc)
+- bologna
+

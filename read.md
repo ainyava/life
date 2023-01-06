@@ -36,3 +36,8 @@
 - [ ] Design Patterns: Elements of Reusable Object-Oriented Software
 - [ ] How Google Works
 - [ ] Software Engneering at Google
+
+### Articles
+- [ ] go is boring and thats fantastic
+- [ ] bitly's engneering blog about go
+

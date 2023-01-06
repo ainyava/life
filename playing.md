@@ -22,3 +22,28 @@
 - Call of Duty Modern Warfare Remastered
 - Human Fall Flat
 - Little Nightmares
+- Tomb Raider
+- Portal
+- Fallout
+- Skyrim
+- Batman: Arkham Knight
+- Watch Dogs 2
+- Devil May Cry 5
+- Metal Gaer
+- The Mass Effect 3
+- The Organ Tail
+- Resident Evil
+- Burnout 3
+- StarWars
+- The Last Of Us
+- Dark Souls
+- Prince of Persia
+- Indiana Jones
+- Control
+- Far Cry 5
+- The Witcher
+- Just Cause
+
+### GOG
+- Project IGI
+
