@@ -1,8 +1,8 @@
 # Buying
 
 ### Priority
-- [ ] save to migrate!
 - [ ] rent a house
+- [ ] save to migrate!
 
 ### Daily requirements
 - [x] Water Flask
@@ -19,7 +19,9 @@
 - [x] Multimeter and some Tools
 
 ### Workout
-- [ ] bicycle (tube, ball bearings)
+- [x] bicycle stuff
+- [x] deuter 42
+- [x] hummto boots
 
 ### PC
 - [x] 140cm table
@@ -33,13 +35,14 @@
 - [x] GPU: MSI 3060TI Ventus 2x
 - [x] SSD: Kingstone 120GB
 - [x] HDD: WD 4TB
-- [ ] HDD: X300 Toshiba Disk
 - [x] FAN: Cooler Master MA612 Stealth ARGB 
 - [x] CPU: Amd Ryzen9 5900X
+- [ ] HDD: X300 Toshiba Disk
 - [ ] Mouse: 
 
 ### Widgets
 - [x] Xiaomi 11T
+- [ ] Macbook
 
 ### Hobbies
 - [x] Nektar Impact GX61 MIDI Keyboard
